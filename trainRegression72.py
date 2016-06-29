@@ -2,7 +2,7 @@ import numpy as np
 from glob import glob
 import os
 import h5py
-
+#....
 #datadir = "/reg/d/ana01/temp/davidsch/ImgMLearnFull"
 #h5files = glob(os.path.join(datadir, "amo86815_mlearn-r070*.h5"))
 
